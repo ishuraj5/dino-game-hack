@@ -1,0 +1,7 @@
+#CODE 1
+
+var original = Runner.prototype.gameOver
+
+#CODE 2
+
+Runner.prototype.gameOver = function (){}
